@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mongodb/mongodb": "*",
+        "endroid/qr-code": "^5.0"
+    }
+}
